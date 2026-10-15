@@ -1,2 +1,52 @@
 # IF-V-K-HTML-CSS-GANANG-IFV-K
 Tugas pertemuan 4 HTML &amp; CSS
+NAMA : GANANG AJI PRATAMA
+KELAS : IF V K
+PRODI : TEKHNIK INFORMATIKA
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>PEMWEB</title>
+    <header>
+        <h1>🌐 HTML Learning Project</h1>
+        <p>Master the Building Blocks of the Web</p>
+    </header>
+    <!--section 1 what is html ? -->
+    <section id="what-is-html">
+        <h2>🚀 What is HTML?</h2>
+        <p><strong>(HyperText Markup Language)</strong> is the standard markup language for creating web pages. Think of it as the skeleton or foundation of every website you visit.</p>
+    </section>
+
+    
+    <div class="key-points"">
+    <h3>Key points</h3>
+    <ul>
+        <li><strong>HyperText:</strong> Text with links to other texts</li>
+        <li><strong>Markup:</strong>A way to annotate text to show structure and meaning</li>
+        <li><strong>Language:</strong> A set of rules and syntax for creating web content</li>
+    </ul>
+    
+    </div>
+
+    <h3>🏗️ How HTML Works</h3>
+   <p> HTML uses <strong>tags</strong> to define elements. Tags are keywords surrounded by angle brackets like <code>&lt;tagname&gt;</code>. Most tags come in pairs:</p>
+
+   <pre>
+    <code>
+&lt;tagname&gt;Content goes here&lt;/tagname&gt;
+&lt;h1&gt;This is a heading&lt;/h1&gt;
+&lt;p>This is a paragraph&lt;/p&gt;
+   </code>
+</pre>
+
+
+
+
+</head>
+<body>
+    
+</body>
+</html>
